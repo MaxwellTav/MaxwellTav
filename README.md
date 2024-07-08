@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, soy Maxwell Tavares ✨</h1>
 
 <p align="left">
-  <a href="https://fb.com/unsimpledev" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61561486903862" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook de Maxwell" />
   </a>
-  <a href="mailto:unsimpledev@gmail.com" target="_blank">
+  <a href="mailto:Maxwelltrocha0709@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Maxwell" />
   </a>
   <a href="https://wa.me/+18296820160" target="_blank">
@@ -17,7 +17,9 @@
 <p align="left">
   🎓 INGENIERO EN INFORMÁTICA - 22 años.
   <br>
+  <br>
   💻 Más de 5 años de experiencia en el proceso de desarrollo de software.
+  <br>
   <br>
   📝 Roles en el ámbito:
   <ul>
@@ -37,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" alt="Tecnologías que uso" />
   </a>
 </p>
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 <h2>GitHub :octocat:</h2>
 <p align="center">
