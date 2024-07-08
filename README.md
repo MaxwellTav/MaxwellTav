@@ -46,16 +46,16 @@
   <table align="left">
     <tr>
       <td align="center" width="60%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" alt="Mark streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxwellTav&theme=dark&hide_border=false" alt="Mark streak" />
       </td>
       <td align="center" width="40%">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top languages" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MaxwellTav&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top languages" />
       </td>
     </tr>
   </table>
   <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%" alt="Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=MaxwellTav&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%" alt="Trophies" />
     </a>
   </div>
 </p>
