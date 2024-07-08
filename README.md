@@ -18,6 +18,14 @@
   🎓 INGENIERO EN INFORMÁTICA - 22 años.
   <br>
   <br>
+  🎓 Graduado en:
+  <ul>
+    <li>Universidad del caribe (UNIBE) (Ingeniero en Software) (Actualmente)</li>
+    <li>Instituto tecnológico de las américas (ITLA) (Desarrollador de Software)</li>
+    <li>Técnico superior / Técnico profesional en informática</li>
+  </ul>
+  <br>
+  <br>
   💻 Más de 5 años de experiencia en el proceso de desarrollo de software.
   <br>
   <br>
