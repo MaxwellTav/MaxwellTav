@@ -24,8 +24,6 @@
     <li>Instituto tecnológico de las américas (ITLA) (Desarrollador de Software)</li>
     <li>Técnico superior / Técnico profesional en informática</li>
   </ul>
-  <br>
-  <br>
   💻 Más de 5 años de experiencia en el proceso de desarrollo de software.
   <br>
   <br>
