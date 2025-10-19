@@ -15,7 +15,7 @@
 
 <h2>Sobre mí 😃</h2>
 <p align="left">
-  🎓 INGENIERO EN INFORMÁTICA - 23 años.
+  🎓 INGENIERO EN INFORMÁTICA - 24 años.
   <br>
   <br>
   🎓 Graduado en:
