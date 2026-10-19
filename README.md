@@ -1,3 +1,16 @@
+<div align="center">
+  <h1>Notice to the Trackman Baseball Team</h1>
+  <blockquote>
+    <p>
+      The code in this repository was created strictly as an efficiency proof-of-concept with absolutely no malicious intent. 
+      To avoid any misinterpretations and to demonstrate that the intentions were always transparent, this repository will receive no further updates and remains as-is.
+    </p>
+    <p>Apologies for any inconvenience caused to your operations.</p>
+  </blockquote>
+</div>
+
+
+
 <h1 align="center">Hola 👋, soy Maxwell Tavares ✨</h1>
 
 <p align="left">
